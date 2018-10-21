@@ -1,0 +1,13 @@
+{
+  "productInstanceReference" : "PRIR5859",
+  "amount" : "5000",
+  "disbursementInstructionReference" : "DIRE9549",
+  "fundingAccountReference" : "FARE4235",
+  "payeeReference" : "PAEE5007",
+  "payeeProductInstanceReference" : "PAIR7456",
+  "authorizingEmployeeReference" : "AERE5245",
+  "customerReference" : "CSRE3456",
+  "payeeBankReference" : "PEBR2783",
+  "currency" : "USD",
+  "valueDate" : "2018-08-28"
+}
